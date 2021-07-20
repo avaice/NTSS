@@ -6,7 +6,7 @@ Network Time Synchronize Software<br><br>
 
 # Download
 Windows98, 2000, Me, XP, また、それ以降のOSに対応しています。<br>
-リポジトリ内の<a href="https://github.com/avaice/NTSS/blob/main/NTSS.exe">NTSS.exe</a>をダウンロードしてください。<br>
+<a href="https://github.com/avaice/NTSS/blob/main/NTSS.exe">Download</a><br>
 スタートメニュー内のスタートアップに入れておけば起動時に自動的に同期してくれます。
 
 # SourceCode
