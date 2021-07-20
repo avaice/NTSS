@@ -13,5 +13,5 @@ Windows98, 2000, Me, XP, また、それ以降のOSに対応しています。<b
 # SourceCode
 ソースコードは<a href="https://github.com/avaice/NTSS/blob/main/src.hmw">src.hmw</a>単体です。
 
-#License
+# License
 MITライセンスに準拠します。
